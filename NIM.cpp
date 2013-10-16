@@ -31,11 +31,14 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	
 	int val;
 	do
 	{
 		cout << endl << endl << endl;
+		
 		cout << "                ADALVALMYND " << endl << endl;
+		cout << "		       Thorarinn09 " << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
